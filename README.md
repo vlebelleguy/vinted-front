@@ -12,10 +12,7 @@
 <img src="https://img.shields.io/badge/-CSS3-09b1ba?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/-Netlify-09b1ba?style=for-the-badge&logo=Netlify&logoColor=white">
 <h3>📝 <ins>Tasks</ins> 📝</h3>
-<li>Create a functional shopping cart</li>
-<li>Make an increment and decrement counter</li>
-<li>Add or remove a product from the cart</li>
-<li>Calculate the subtotal and total price</li>
+<li> </li>
 <h3>🛠️ <ins>Installation</ins> 🛠️</h3>
 <p>Be sure, you have installed all dependencies to run the project.</p>
 <h4>Clone The Repository</h4>
